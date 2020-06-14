@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d37ceccc7d7c14eb708b1c3a7bbd96, type: 3}
+  m_Name: Woolmark
+  m_EditorClassIdentifier: 
+  Title: Woolmark AR
+  Photos:
+  - {fileID: 21300000, guid: c2518c58dc64eea4fbedef17aa28636e, type: 3}
+  - {fileID: 21300000, guid: 8ef5f4bbb123c5e4ba2b0332de949aff, type: 3}
+  - {fileID: 21300000, guid: 5b00d3bd9b6fea7449a24aafae50f047, type: 3}
+  - {fileID: 21300000, guid: b8ccab58efe61234c88c500db7bf3ff0, type: 3}
+  - {fileID: 21300000, guid: e02cde14cc560354fbd0fb0b6fd175e8, type: 3}
+  - {fileID: 21300000, guid: 0fe15d5b21e23a447af0f51737d52d41, type: 3}
+  - {fileID: 21300000, guid: 1f596089b05d28e4cb1486f17557035b, type: 3}
+  - {fileID: 21300000, guid: 8edd26b85e3e6a74fb68e0cc6dc25194, type: 3}
+  - {fileID: 21300000, guid: 2f61e8e9830bc8642b49c45393a2face, type: 3}
+  - {fileID: 21300000, guid: 01b5385ae4b24504aba478cf9776efb7, type: 3}
+  - {fileID: 21300000, guid: 2b483f88744664b44b83441c720adada, type: 3}
+  - {fileID: 21300000, guid: 5b00d3bd9b6fea7449a24aafae50f047, type: 3}
+  Comment: Este proyecto es del pinche Alec
+  canPlay: 1
+  botonName: ABRIR
+  projectLink: https://play.google.com/store/apps/details?id=com.digibale.wmar

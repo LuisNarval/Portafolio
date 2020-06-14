@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d37ceccc7d7c14eb708b1c3a7bbd96, type: 3}
+  m_Name: MocapSummit
+  m_EditorClassIdentifier: 
+  Title: Mocap Summit MX
+  Photos:
+  - {fileID: 21300000, guid: d0971505089b01e439ff860d3c3b7a56, type: 3}
+  - {fileID: 21300000, guid: 57f698352272f5449b513c21ba8c6105, type: 3}
+  - {fileID: 21300000, guid: d1d80811b2c35794389bfa180038ee85, type: 3}
+  - {fileID: 21300000, guid: 3a7993e1d92c36f46aa310314d699b2f, type: 3}
+  - {fileID: 21300000, guid: 6244f19ec35d5f8479d152bc1551e1c9, type: 3}
+  - {fileID: 21300000, guid: de34de0e404b4d149a6ae233904a0f3b, type: 3}
+  - {fileID: 21300000, guid: 49a698aaf99873045b09b537307ad7f6, type: 3}
+  - {fileID: 21300000, guid: a2a7a681ca08e7d4a8dd9bde001a2081, type: 3}
+  - {fileID: 21300000, guid: a320cc28a0b42bb459b1ae84741db2bc, type: 3}
+  - {fileID: 21300000, guid: b2ee4e79c3b07b24c8474f3bd1f4110a, type: 3}
+  - {fileID: 21300000, guid: 74f9082cd5427a64eb0b280cef92f5e5, type: 3}
+  - {fileID: 21300000, guid: 2d5d26ff1a7dabf4dba55fe966feba0e, type: 3}
+  - {fileID: 21300000, guid: 2526971cdc9cb5f418206ebfe11bfcbc, type: 3}
+  - {fileID: 21300000, guid: e8207fbe7df437d4a970b7792051e410, type: 3}
+  - {fileID: 21300000, guid: babcba70115b6fe4c87c565a37b3e007, type: 3}
+  - {fileID: 21300000, guid: eff3f2a4534e9914b8f691f3b42f7932, type: 3}
+  Comment: "En Octubre de 2018 se llevo a cabo el Mocap Summit MX, en la Universidad
+    Centro de la Ciudad de M\xE9xico.\n\nEl evento sirve como el punto de encuentro
+    de distintos especialistas del Motion Capture, entre los cu\xE1les se destacan
+    actores, animadores, directores, camar\xF3grafos, ingenieros y dem\xE1s auxiliares
+    de la industria.\n\nFue aqu\xED d\xF3nde tuve la oportunidad de aprender de la
+    mano de CJ Markham, animador de Rockstar Games.\n\nCon su gu\xEDa pude entender
+    c\xF3mo utilizar el software necesario para realizar Captura de Movimiento, as\xED
+    c\xF3mo cu\xE1les son las mejores pr\xE1cticas para obtener un buen resultado.\n\nY
+    m\xE1s all\xE1 de eso, al ser una persona tan atenta y amable con todos nosotros,
+    tambi\xE9n pude aprender de \xE9l que la humildad no esta peleada con la grandeza."
+  canPlay: 0
+  botonName: 
+  projectLink: 

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d37ceccc7d7c14eb708b1c3a7bbd96, type: 3}
+  m_Name: AngryBirds
+  m_EditorClassIdentifier: 
+  Title: Angry Birds
+  Photos:
+  - {fileID: 21300000, guid: 5dd071b1467e3f8439927da5a2dd3a1d, type: 3}
+  - {fileID: 21300000, guid: 78d8626e828f3174181f3fe5f7de2c99, type: 3}
+  - {fileID: 21300000, guid: 3aacadc8da5d011458e17e4b3cc70994, type: 3}
+  - {fileID: 21300000, guid: d3140de2fce1b04439879a3014696bcf, type: 3}
+  - {fileID: 21300000, guid: a765f690de88e724eb1e79416365a9da, type: 3}
+  - {fileID: 21300000, guid: 559c140ff70049e40935d4093deb1055, type: 3}
+  - {fileID: 21300000, guid: 30878e549e4f3e347aac7d554073eda5, type: 3}
+  - {fileID: 21300000, guid: 6dcf79a90ee60cb4499c2b7a206c2ce7, type: 3}
+  - {fileID: 21300000, guid: 2d849c5cabafc6f438fc79b8e93132de, type: 3}
+  - {fileID: 21300000, guid: 5638031a17cf87646832b03e6039629f, type: 3}
+  Comment: "Este juego es una recreaci\xF3n del famoso Angry Birds.\n\nAproximadamente
+    hace un a\xF1o unos amigos y yo decidimos organizar Game Jams en l\xEDnea por
+    nuestra propia cuenta.\n\nA estos eventos los llam\xE1mos Game Jams Clandestinos.\n\nRealizamos
+    este evento una vez al mes, con la finalidad de seguir poniendo en pr\xE1ctica
+    nuestras habilidades de desarrollo.\n\nEsta versi\xF3n de Angry Birds fue realizada
+    por nosotros durante un Game Jam Clandestino, siendo yo el \xFAnico programador
+    del equipo.\n\nEl juego cuenta con 10 niveles y se puede jugar desde un navegador
+    Web, dando clic en el bot\xF3n de Jugar ubicado a la izquierda de esta caja de
+    texto."
+  canPlay: 1
+  botonName: JUGAR
+  projectLink: https://gjcangrybirds.github.io/

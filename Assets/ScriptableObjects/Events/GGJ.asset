@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d37ceccc7d7c14eb708b1c3a7bbd96, type: 3}
+  m_Name: GGJ
+  m_EditorClassIdentifier: 
+  Title: Global Game Jam
+  Photos:
+  - {fileID: 21300000, guid: 1f596089b05d28e4cb1486f17557035b, type: 3}
+  - {fileID: 21300000, guid: 0fe15d5b21e23a447af0f51737d52d41, type: 3}
+  - {fileID: 21300000, guid: e02cde14cc560354fbd0fb0b6fd175e8, type: 3}
+  - {fileID: 21300000, guid: 31607a99fce6f544a9c31b3cc18a561c, type: 3}
+  - {fileID: 21300000, guid: eb58c010104262f4e88d04973d876615, type: 3}
+  - {fileID: 21300000, guid: 45abf7e52d49ad54fa19ae6598e60a06, type: 3}
+  - {fileID: 21300000, guid: a7fb33d582f50744e8749c7ec593461e, type: 3}
+  - {fileID: 21300000, guid: da9f32a2750961f4e8d13107beea85a3, type: 3}
+  - {fileID: 21300000, guid: 03d5a4036983d9943ae5efb8a9433c92, type: 3}
+  - {fileID: 21300000, guid: fb71969e392164b4599ead4d021c610f, type: 3}
+  Comment: "Mi primer Game Jam fue el Global Game Jam de 2015, celebrado en el Centro
+    de Cultura Digital de la CDMX.\n\nDesde entonces he tenido la oportunidad de
+    participar en otros 9 Game Jams.\n\nEn cada uno de ellos he podido hacer grandes
+    amigos que me han acompa\xF1ado a lo largo de este camino, y de los cu\xE1les
+    he aprendido mucho.\n\nEl reto y la emoci\xF3n de desarrollar un videojuego en
+    s\xF3lo 48 horas nunca ser\xE1 algo aburrido. \n\nLa cantidad de cosas que uno
+    aprende durante estos eventos y el feedback que recibe directamente de sus jugadores
+    es invaluable.\n\nEn el Global Game Jam de 2019, dentro de los Estudios Churubusco,
+    mi equipo y yo tuvimos el gran honor de ganar el reconocimiento al Juego M\xE1s
+    Memorable del evento."
+  canPlay: 0
+  botonName: 
+  projectLink: 

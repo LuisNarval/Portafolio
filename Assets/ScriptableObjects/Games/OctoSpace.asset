@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d37ceccc7d7c14eb708b1c3a7bbd96, type: 3}
+  m_Name: OctoSpace
+  m_EditorClassIdentifier: 
+  Title: OctoSpace
+  Photos:
+  - {fileID: 21300000, guid: 0331820e375f9cb4c8d23b73857df15d, type: 3}
+  - {fileID: 21300000, guid: 7693c4edb14a66a408ec907017bf142c, type: 3}
+  - {fileID: 21300000, guid: 8d43e7f8970291d4c929148773e52f35, type: 3}
+  - {fileID: 21300000, guid: 266e0ec54bcbe4b48a24e329c9c9c7f1, type: 3}
+  - {fileID: 21300000, guid: 729a8a331627bb64c9e9bacb93e55705, type: 3}
+  - {fileID: 21300000, guid: 10ca269886b7fdd4e940bc03cc0046a6, type: 3}
+  - {fileID: 21300000, guid: 131dba011ed2e0543a763aa964a31880, type: 3}
+  - {fileID: 21300000, guid: 6964586ffd492f043afd04f6f33bff61, type: 3}
+  - {fileID: 21300000, guid: 6f46cc78d48864545b414d61095f0976, type: 3}
+  - {fileID: 21300000, guid: 716b6dad4324ea244a5c30cc9d94dd08, type: 3}
+  - {fileID: 21300000, guid: dd0096c0a4b04fb47bf365871d63f38d, type: 3}
+  - {fileID: 21300000, guid: 632613d1e0e51924e9e1db77007e3aaa, type: 3}
+  - {fileID: 21300000, guid: 75732a91f2eadd84f9cf66421d99e503, type: 3}
+  - {fileID: 21300000, guid: f448841ab9f45954185571c4f7e91855, type: 3}
+  - {fileID: 21300000, guid: 98c8c327ed287704d8f7b03e39af3f5c, type: 3}
+  Comment: "Durante la universidad pertenec\xED a SODVI, la Sociedad de Desarrollo
+    de Videojuegos de la UNAM.\n\nAh\xED es d\xF3nde tuve la oportunidad de trabajar
+    por primera vez en un equipo de desarrollo de videojuegos.\n\nTambi\xE9n tuve
+    la oportunidad de estar a cargo de 2 proyectos.\n\nUno de ellos fue Octo Space,
+    un juego que desarroll\xE9 junto a Juan G\xE1mez y a Ricardo Sa\xE9nz, nuevos
+    miembros de la sociedad en ese entonces.\n\nEl objetivo era hacer un juego sencillo,
+    que le ense\xF1ara a ambos las bases de la programaci\xF3n de videojuegos.\n\nOctospace
+    es un juego de naves que cuenta con un solo nivel seccionado en 10 partes. \n\nSi
+    llegas a la parte final te enfrentaras con el jefe, un pulpo espacial gigante
+    que es capaz de lanzar un laser por su ojo.\n\nHINT: Si quieres pelear directamente
+    con el Jefe, oprime la tecla \"J\" en la primera secci\xF3n del juego. \n\nAl
+    termino del desarrollo decidimos enviar el proyecto al Concurso Nacional de Videojuegos
+    MX.\n \nPara nuestra sorpresa y gran alegr\xEDa terminamos siendo finalistas
+    en la categor\xEDa de Universitarios. \n\nSe puede jugar desde un navegador Web,
+    dando clic en el bot\xF3n de Jugar ubicado a la izquierda de esta caja de texto."
+  canPlay: 1
+  botonName: JUGAR
+  projectLink: https://octospace.github.io/
