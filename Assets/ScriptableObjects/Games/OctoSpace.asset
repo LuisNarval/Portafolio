@@ -43,7 +43,7 @@ MonoBehaviour:
     termino del desarrollo decidimos enviar el proyecto al Concurso Nacional de Videojuegos
     MX.\n \nPara nuestra sorpresa y gran alegr\xEDa terminamos siendo finalistas
     en la categor\xEDa de Universitarios. \n\nSe puede jugar desde un navegador Web,
-    dando clic en el bot\xF3n de Jugar ubicado a la izquierda de esta caja de texto."
+    dando clic en el bot\xF3n de Jugar ubicado a la izquierda de esta caja de texto.\n\n"
   canPlay: 1
   botonName: JUGAR
   projectLink: https://octospace.github.io/

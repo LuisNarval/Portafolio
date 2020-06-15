@@ -18,7 +18,13 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 3b416d3596a85e146a1acfff6e9826fe, type: 3}
   - {fileID: 21300000, guid: 7afac74b41c99d345934c64f7eea98b9, type: 3}
   - {fileID: 21300000, guid: 17e5d75f3ae91bc4aaf20b3989070158, type: 3}
-  Comment: Este proyecto es del pinche Alec
+  Comment: "Mezcal 95 es una aplicaci\xF3n desarrollada por Inmersys, Systemas Inmersivos
+    S. de R.L.\n\nProgramaci\xF3n : Luis Delgadillo\nModelado : Emmanuel Luna\nDise\xF1o
+    Gr\xE1fico : Valeria G. Cort\xE9s\n\nMezcal 95 es una aplicaci\xF3n de Realidad
+    Aumentada que toma como marcador una botella de tequila de marca Mezcal 95.\n\nUna
+    vez desplegada la Realidad Aumentada comienza un juego de ruleta en 3D, que le
+    entregar\xE1 al jugador uno de los 50 castigos disponibles.\n\nLa aplicaci\xF3n
+    tambi\xE9n muestra informaci\xF3n de contacto para la marca de Mezcal 95.\n"
   canPlay: 1
-  botonName: TIENDA
+  botonName: ABRIR
   projectLink: https://play.google.com/store/apps/details?id=com.Inmersys.Mezcal95

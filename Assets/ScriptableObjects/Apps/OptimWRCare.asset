@@ -20,7 +20,19 @@ MonoBehaviour:
   - {fileID: 21300000, guid: dc9d47db02609054caafb98f96c67fd4, type: 3}
   - {fileID: 21300000, guid: 3b6872ebb353a994580c63407db52ff1, type: 3}
   - {fileID: 21300000, guid: ebe8bf98f3609ee4289e93304859c78d, type: 3}
-  Comment: Este proyecto es del pinche Alec
+  Comment: "Optim WR Care es una aplicaci\xF3n desarrollada por Augmented Reality
+    Experts en alianza con Inmersys, Sistemas Inmersivos S. de R.L.\n\nProgramaci\xF3n
+    : Luis Delgadillo\nModelado : Luis Mart\xEDn Flores\nDise\xF1o Gr\xE1fico : Jorge
+    Esparza\n\nOptim WR Care es una aplicaci\xF3n de Realidad Aumentada que funciona
+    en conjunto a una chamarra inteligente fabricada con lana en Australia.\n\nLa
+    aplicaci\xF3n muestra informaci\xF3n acerca del proceso de trasquilado de ovejas
+    necesario para fabricar la chamarra, despliega en 3D un acercamiento a las fibras
+    de lana para mostrar la forma en que est\xE1n constituidas.\n\nAs\xED mismo,
+    la aplicaci\xF3n es capaz de leer una etiqueta NFC cosida dentro de la manga
+    de la prenda.\n\nEstas etiquetas tienen un c\xF3digo \xFAnico que solamente puede
+    ser decifrado por la aplicaci\xF3n y en consecuencia desbloquea contenido exclusivo
+    dentro de la misma. Una caracter\xEDstica desarrollada \xFAnicamente para los
+    clientes que ya hayan adquirido la prenda.\n\n"
   canPlay: 1
-  botonName: TIENDA
+  botonName: ABRIR
   projectLink: https://play.google.com/store/apps/details?id=com.ARE.OptimCare

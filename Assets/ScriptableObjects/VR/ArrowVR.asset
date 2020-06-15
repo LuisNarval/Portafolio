@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d37ceccc7d7c14eb708b1c3a7bbd96, type: 3}
+  m_Name: ArrowVR
+  m_EditorClassIdentifier: 
+  Title: Arrow VR
+  Photos:
+  - {fileID: 21300000, guid: 96fd4a710a8e8d54eb127e5145392d35, type: 3}
+  - {fileID: 21300000, guid: 099a1cb31256ff54bbe76ce02c47c3af, type: 3}
+  - {fileID: 21300000, guid: 60b4a1f6600d82248b8f1e1f850559a2, type: 3}
+  - {fileID: 21300000, guid: cb50a94334896fc408ca1e45a57b2092, type: 3}
+  - {fileID: 21300000, guid: c4637ac767b9f4a41b4a985fea77ba76, type: 3}
+  - {fileID: 21300000, guid: bcd623b7e70743e4d924be0d92e9f834, type: 3}
+  - {fileID: 21300000, guid: 483cea7eb62732743a01070fe8708261, type: 3}
+  - {fileID: 21300000, guid: 33f7f38c1554bc143945bf3800b8af13, type: 3}
+  - {fileID: 21300000, guid: aea017f0e5b82d74ab985ecfce631a48, type: 3}
+  Comment: "Arrow VR es un videojuego propiedad de Inmersys, Sistemas Inmersivos
+    S. de R.L.\n\nProgramaci\xF3n : Luis Delgadillo\nModelado : Luis Mart\xEDn Flores\nModelado
+    : Daphne S\xE1nchez\nDise\xF1o Gr\xE1fico : Gustavo Reyes\n\nArrow VR es un videojuego
+    de Realidad Virtual desarrollado para el Oculus Quest.\n\nAl comenzar el juego
+    eres transportado a unas galeras de tiro, para poder salir victorioso del lugar
+    tendr\xE1s que destruir la mayor cantidad de objetivos a tu alrededor dentro
+    del tiempo limite.\n\nTendr\xE1s a tu disposici\xF3n un arco y flecha para cumplir
+    con tal objetivo.\n\nEl juego te mostrar\xE1 un ligero tutorial al principio
+    del nivel, el cu\xE1l te ense\xF1ara las mec\xE1nicas b\xE1sicas para poder hacer
+    uso de tu arco y flecha.\n\nLos objetivos en la parte trasera valen m\xE1s puntos,
+    y si es que prendes tu flecha en fuego y atinas a uno de ellos, entonces la cantidad
+    que te otorgan se duplicara.\n\nTendr\xE1s solamente 2 minutos para cumplir con
+    este desaf\xEDo.\n"
+  canPlay: 0
+  botonName: 
+  projectLink: 

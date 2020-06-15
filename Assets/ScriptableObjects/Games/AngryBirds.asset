@@ -24,15 +24,16 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 6dcf79a90ee60cb4499c2b7a206c2ce7, type: 3}
   - {fileID: 21300000, guid: 2d849c5cabafc6f438fc79b8e93132de, type: 3}
   - {fileID: 21300000, guid: 5638031a17cf87646832b03e6039629f, type: 3}
-  Comment: "Este juego es una recreaci\xF3n del famoso Angry Birds.\n\nAproximadamente
-    hace un a\xF1o unos amigos y yo decidimos organizar Game Jams en l\xEDnea por
-    nuestra propia cuenta.\n\nA estos eventos los llam\xE1mos Game Jams Clandestinos.\n\nRealizamos
-    este evento una vez al mes, con la finalidad de seguir poniendo en pr\xE1ctica
-    nuestras habilidades de desarrollo.\n\nEsta versi\xF3n de Angry Birds fue realizada
-    por nosotros durante un Game Jam Clandestino, siendo yo el \xFAnico programador
-    del equipo.\n\nEl juego cuenta con 10 niveles y se puede jugar desde un navegador
-    Web, dando clic en el bot\xF3n de Jugar ubicado a la izquierda de esta caja de
-    texto."
+  Comment: "Este juego es una recreaci\xF3n del famoso Angry Birds.\n\nProgramaci\xF3n
+    : Luis Delgadillo\nIlustraciones : Karlos Puertos\nIlustraciones : Victor Reyes\nAudio
+    : Ciblu Nps Kalux\n\nAproximadamente hace un a\xF1o unos amigos y yo decidimos
+    organizar Game Jams en l\xEDnea por nuestra propia cuenta.\n\nA estos eventos
+    los llam\xE1mos Game Jams Clandestinos.\n\nRealizamos este evento una vez al
+    mes, con la finalidad de seguir poniendo en pr\xE1ctica nuestras habilidades
+    de desarrollo.\n\nEsta versi\xF3n de Angry Birds fue realizada por nosotros durante
+    un Game Jam Clandestino, siendo yo el \xFAnico programador del equipo.\n\nEl
+    juego cuenta con 10 niveles y se puede jugar desde un navegador Web, dando clic
+    en el bot\xF3n de Jugar ubicado a la izquierda de esta caja de texto.\n"
   canPlay: 1
   botonName: JUGAR
   projectLink: https://gjcangrybirds.github.io/

@@ -53598,7 +53598,7 @@ GameObject:
   - component: {fileID: 1011431670}
   - component: {fileID: 1011431669}
   m_Layer: 5
-  m_Name: Tiro con Arco
+  m_Name: Arrow VR
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -70738,7 +70738,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Tiro con Arco
+  m_text: Arrow VR
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: f7bdbb72ffc09fa4782d80ee3b37e66e, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: f7bdbb72ffc09fa4782d80ee3b37e66e, type: 2}
@@ -70808,10 +70808,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1338551502}
-    characterCount: 13
+    characterCount: 8
     spriteCount: 0
-    spaceCount: 2
-    wordCount: 3
+    spaceCount: 1
+    wordCount: 2
     linkCount: 0
     lineCount: 1
     pageCount: 1

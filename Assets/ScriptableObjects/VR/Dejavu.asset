@@ -25,7 +25,23 @@ MonoBehaviour:
   - {fileID: 21300000, guid: e974a122e0120ed408291f9806f51bb2, type: 3}
   - {fileID: 21300000, guid: 53a0eecab996d614196c1e413dd59c2f, type: 3}
   - {fileID: 21300000, guid: 7dd56bfa5abc43f44bbe41a8aafe4b0d, type: 3}
-  Comment: Ya quiero terminarlo.
+  Comment: "Dejavu es un videojuego de Realidad Virtual de mi autoria.\n\nLos assets
+    fueron obtenidos atrav\xE9s de Synty Store y Unity Store.\nSu integraci\xF3n
+    en el juego, as\xED como el armado del escenario y la programaci\xF3n corrieron
+    a cuenta m\xEDa.\n\nEs una noche especial, ya que tienes una cita en uno de los
+    restaurante m\xE1s rom\xE1nticos de Sanfrans Tokyo.\n\nVer\xE1s a esa persona
+    \xFAnica que no has visto en bastantes a\xF1os.  \nPese a ello toda esta situaci\xF3n
+    resulta extra\xF1amente familiar.\n\nLa velada se prestaba para ser perfecta
+    hasta que aqu\xE9l odioso hechicero logr\xF3 dar contigo. \n\nC\xF3mo siempre
+    parece que viene a buscar pelea, pero afortunadamente nunca sales de casa sin
+    el armamento adecuado.\n\nToda esta historia es el pretexto perfecto para un
+    juego de disparos en primera persona, d\xF3nde tomaras los controles del Oculus
+    Quest para contrarrestar los ataques de tus enemigos.\n\nEl hechicero juega sucio,
+    ya que utilizar\xE1 su m\xE1gia para protegerse tras un escudo que no podr\xE1s
+    romper, y mientras intentas debilitarlo invocar\xE1 a hordas de mounstros que
+    har\xE1n de tu objetivo un martirio. \n\nEnfrentaras al hechicero desde la terraza
+    del restaurante y deber\xE1s derrotarlo antes de que tu cita llegue, o habr\xE1s
+    perdido el juego y la noche perfecta.\n"
   canPlay: 0
   botonName: 
   projectLink: 

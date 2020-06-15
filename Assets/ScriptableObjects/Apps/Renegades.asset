@@ -19,7 +19,16 @@ MonoBehaviour:
   - {fileID: 21300000, guid: be34ed66555aa5c42ae1d2fbffcda560, type: 3}
   - {fileID: 21300000, guid: 1d635c76a7c391042a4e9288631644bf, type: 3}
   - {fileID: 21300000, guid: f86669fc94342de4e862bbbf60812fc6, type: 3}
-  Comment: "Es como que la \xFAnica aplicaci\xF3n plana que me late"
+  Comment: "Renegades AR es una aplicaci\xF3n desarrollada por Augmented Reality
+    Experts en alianza con Inmersys, Sistemas Inmersivos S. de R.L.\n\nProgramaci\xF3n
+    : Luis Delgadillo\nModelado : Emmanuel Luna\nDise\xF1o Gr\xE1fico : Valeria G.
+    Cort\xE9s\n\n\nRenegades AR es una aplicaci\xF3n de Realidad Aumentada desarrollada
+    para un equipo de Cricket en Australia, el cu\xE1l tiene el mismo nombre.\n\nLa
+    aplicaci\xF3n usa como marcador el logotipo del equipo, regularmente impreso
+    en guantes y dem\xE1s material deportivo.\n\nLa aplicaci\xF3n da informaci\xF3n
+    acerca de los Renegades y ofrece un minijuego de Realidad Aumentada dentro de
+    la aplicaci\xF3n, el cu\xE1l consiste en una simulaci\xF3n de bateo de Cricket
+    por medio de gestos con los dedos en la pantalla t\xE1ctil.\n"
   canPlay: 1
-  botonName: TIENDA
+  botonName: ABRIR
   projectLink: https://play.google.com/store/apps/details?id=com.ARE.Renegades

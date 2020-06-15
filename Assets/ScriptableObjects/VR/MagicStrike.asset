@@ -22,7 +22,16 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 00209100f904cfa40b04eaf8f726c517, type: 3}
   - {fileID: 21300000, guid: 06d5146e2efc0034a9679221b7342d4d, type: 3}
   - {fileID: 21300000, guid: c98f294bf2880ca41a581ec9eb66b1f7, type: 3}
-  Comment: Esta bien pinche perro bonito.
+  Comment: "Magic Strike es un videojuego propiedad de Inmersys, Sistemas Inmersivos
+    S. de R.L.\n\nProgramaci\xF3n : Luis Delgadillo\nModelado : Luis Mart\xEDn Flores\nModelado
+    : Denise Velasco\nDise\xF1o Gr\xE1fico : Jorge Esparza\n\nMagic Strike es un
+    juego de Realidad Virtual desarrollado para el HTC Vive.\n\nT\xFA eres un guerrero
+    que irrumpe en un templo antiguo, el cu\xE1l es custodiado por una extra\xF1a
+    bruja elfica.\n\nElla te pondra a prueba lanzandote bolas de energ\xEDa con el
+    proposito de herirte.\nDeberas esquivar sus ataques y regresarlos con una herramienta
+    m\xE1gica que pos\xE9es.\n\nEl objetivo es enviar sus ataques de regreso a tres
+    portales que se encuentran detr\xE1s de ella\n\nTendr\xE1s 2 minutos para regresar
+    a los portales la mayor cantidad de ellos.\n\n"
   canPlay: 0
   botonName: 
   projectLink: 
