@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d37ceccc7d7c14eb708b1c3a7bbd96, type: 3}
+  m_Name: MagicStrike
+  m_EditorClassIdentifier: 
+  Title: Magic Strike
+  Photos:
+  - {fileID: 21300000, guid: 342061bf44b95284db577a7d61b19a66, type: 3}
+  - {fileID: 21300000, guid: 26156333985b56b408d6b88112c22e4e, type: 3}
+  - {fileID: 21300000, guid: df13194c4da17014e97aad3bfd79a775, type: 3}
+  - {fileID: 21300000, guid: 0afb27afc02b87540afdf7e60ddc681b, type: 3}
+  - {fileID: 21300000, guid: 15ddb324c6941904b856b27887da9e06, type: 3}
+  - {fileID: 21300000, guid: 00209100f904cfa40b04eaf8f726c517, type: 3}
+  - {fileID: 21300000, guid: 06d5146e2efc0034a9679221b7342d4d, type: 3}
+  - {fileID: 21300000, guid: c98f294bf2880ca41a581ec9eb66b1f7, type: 3}
+  Comment: Esta bien pinche perro bonito.
+  canPlay: 0
+  botonName: 
+  projectLink: 

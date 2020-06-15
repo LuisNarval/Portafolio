@@ -13,7 +13,18 @@ MonoBehaviour:
   m_Name: Dejavu
   m_EditorClassIdentifier: 
   Title: Dejavu
-  Photos: []
+  Photos:
+  - {fileID: 21300000, guid: 54c6aacf9ea1feb4fa53056beadf5c01, type: 3}
+  - {fileID: 21300000, guid: cf539da7a61f2b34a86ba1d91baa651c, type: 3}
+  - {fileID: 21300000, guid: e707aa1dafd5dd14e83c21166232a265, type: 3}
+  - {fileID: 21300000, guid: ec4e7c4cf478c9a4e899eeda0261cdfd, type: 3}
+  - {fileID: 21300000, guid: 549eb0151610f80479e295a3c1ad09a6, type: 3}
+  - {fileID: 21300000, guid: bf3ff9db9bc11ca45914147e40d19506, type: 3}
+  - {fileID: 21300000, guid: c40bdb1144dc6ec488bad4bd1c6f1b96, type: 3}
+  - {fileID: 21300000, guid: 53eb957ee0aec0f4795b029100e1b543, type: 3}
+  - {fileID: 21300000, guid: e974a122e0120ed408291f9806f51bb2, type: 3}
+  - {fileID: 21300000, guid: 53a0eecab996d614196c1e413dd59c2f, type: 3}
+  - {fileID: 21300000, guid: 7dd56bfa5abc43f44bbe41a8aafe4b0d, type: 3}
   Comment: Ya quiero terminarlo.
   canPlay: 0
   botonName: 

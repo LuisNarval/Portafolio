@@ -13,7 +13,16 @@ MonoBehaviour:
   m_Name: Tiro con Arco
   m_EditorClassIdentifier: 
   Title: Tiro con Arco
-  Photos: []
+  Photos:
+  - {fileID: 21300000, guid: 96fd4a710a8e8d54eb127e5145392d35, type: 3}
+  - {fileID: 21300000, guid: 099a1cb31256ff54bbe76ce02c47c3af, type: 3}
+  - {fileID: 21300000, guid: 60b4a1f6600d82248b8f1e1f850559a2, type: 3}
+  - {fileID: 21300000, guid: cb50a94334896fc408ca1e45a57b2092, type: 3}
+  - {fileID: 21300000, guid: c4637ac767b9f4a41b4a985fea77ba76, type: 3}
+  - {fileID: 21300000, guid: bcd623b7e70743e4d924be0d92e9f834, type: 3}
+  - {fileID: 21300000, guid: 483cea7eb62732743a01070fe8708261, type: 3}
+  - {fileID: 21300000, guid: 33f7f38c1554bc143945bf3800b8af13, type: 3}
+  - {fileID: 21300000, guid: aea017f0e5b82d74ab985ecfce631a48, type: 3}
   Comment: Ji ji ji, pinche Daniel tengo tu proyecto.
   canPlay: 0
   botonName: 
